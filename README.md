@@ -1,16 +1,32 @@
-## Hi there 👋
+![Konstantin Egorenko — NLP / LLM Engineer](assets/hero.svg)
 
-<!--
-**KonstantinEgorenko/KonstantinEgorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Konstantin Egorenko
 
-Here are some ideas to get you started:
+**NLP / LLM Engineer | AI Agents & RAG Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent systems, autonomous agents, retrieval pipelines, and reliable local-first AI infrastructure.
+
+## About
+
+- LLM applications
+- Retrieval-Augmented Generation
+- Semantic search and reranking
+- Agent orchestration and tool execution
+- Model evaluation and local inference
+
+## Tech stack
+
+`Python` · `PyTorch` · `Transformers` · `Hugging Face` · `SQL` ·
+`Qdrant` · `PostgreSQL` · `Docker` · `Ollama` · `FastAPI`
+
+## Featured project
+
+### [LocalExecute — Local-first Autonomous Coding](https://github.com/KonstantinEgorenko/LocalExecute)
+
+An experimental local-first coding agent harness focused on controlled execution, verification, durable state, and auditable task completion.
+
+## Contact
+
+Open to ML/LLM engineering opportunities, technical discussions and collaboration.
+
+[Telegram — @loveisafiction](https://t.me/loveisafiction)
